@@ -1,0 +1,511 @@
+model_id,language,weat_category_id,layer_idx,weat_score,comments
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,0,-0.20081063,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,1,-0.29257098,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,2,-0.17373371,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,3,-0.28148726,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,4,-0.33855402,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,5,-0.36477527,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,6,-0.3887421,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,7,-0.33994704,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,8,-0.321953,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,9,-0.3125984,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,2,0.41758797,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,3,0.46882913,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,4,0.49402264,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,5,0.5106183,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,6,0.54373235,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,7,0.5325738,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,8,0.57619846,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,9,0.5746745,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,0,0.22450812,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,1,-0.18374445,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,2,-0.4202391,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,3,-0.4779015,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,4,-0.009831294,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,5,-0.12034642,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,6,-0.049584445,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,7,-0.06270279,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,8,-0.23311058,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,9,-0.31271592,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,2,0.3748531,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,3,0.5096505,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,5,0.6115721,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,4,0.6115784,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,1,-0.40687293,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,0,-0.6431391,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,0,0.30533758,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,1,0.28365237,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,2,-0.57416004,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,3,-0.53700554,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,7,-0.43950364,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,6,-0.44651142,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,5,-0.42380115,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,4,-0.4044797,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,9,1.082393,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,8,1.4018998,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,7,1.3586476,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,6,1.0362006,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,5,0.73889726,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,4,0.54692996,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,3,0.614445,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,2,1.0216624,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,1,1.1439639,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,0,-0.72366077,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,9,-0.2881453,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,8,-0.36617395,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,7,0.6374712,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,6,0.6018036,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,9,0.7447281,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,8,0.71451896,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,1,0.40704083,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,0,0.52541304,Before bengali finetuning on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,4,-0.32891306,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,5,-0.35565093,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,8,-0.25972512,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,9,-0.22053094,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,5,0.5778589,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,4,0.6184805,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,3,0.47352538,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,2,0.37837425,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,1,0.28650427,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,0,0.30598098,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,9,1.0978582,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,8,0.869928,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,7,0.8474837,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,6,0.82366854,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,6,0.5866609,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,7,0.595487,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,0,0.52524334,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,1,0.4304682,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,8,0.6311762,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,9,0.65297866,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,2,-0.50399226,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,3,-0.5888996,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,4,-0.26491544,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,5,-0.357662,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,6,-0.31974703,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,7,-0.31982487,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,2,0.41574186,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,3,0.5085133,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,4,0.5176919,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,5,0.51077706,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,6,0.518711,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,7,0.5182613,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,8,0.57504904,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,9,0.57452244,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,0,0.22292969,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,1,-0.20705973,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,7,0.18499425,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,6,0.10138535,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,5,0.10880287,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,4,0.13452227,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,3,0.22354199,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,2,0.20224728,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,1,0.2599393,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,0,0.04978226,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,9,-0.34448236,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,8,-0.38583404,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,6,-0.35684234,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,7,-0.31066594,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,6,-0.36993995,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,7,-0.40237683,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,8,-0.3812952,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,9,-0.39138553,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,0,-0.72825676,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,1,0.9436023,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,2,0.8802312,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,3,0.49125296,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,4,0.7696287,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,5,0.8725802,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,0,-0.645326,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,1,-0.4006109,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,2,-0.55341417,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,3,-0.5174629,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,4,-0.38085702,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,5,-0.40594634,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,0,-0.20180768,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,1,-0.27676296,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,2,-0.18446767,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,3,-0.2854442,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,7,-0.9092733,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,6,-0.9415425,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,4,-0.9134132,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,5,-0.96316725,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,9,-0.9078704,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,8,-0.90284234,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,4,0.28789413,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,5,0.30063283,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,6,0.2587814,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,7,0.20724383,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,8,0.21800396,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,9,0.22028293,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,0,-0.6575725,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,1,-0.3148585,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,2,-0.36103252,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,3,-0.30851623,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,1,0.36072624,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,0,0.35179123,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,3,0.30541644,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,2,0.30480143,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,9,0.28347275,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,8,0.25660107,After epoch 1 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,9,-0.37485456,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,8,-0.3845203,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,7,-0.41155788,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,6,-0.37608695,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,5,-0.41050795,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,4,-0.3855513,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,3,-0.5175723,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,2,-0.55560964,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,1,-0.40551677,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,0,-0.6452608,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,9,-0.23117645,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,8,-0.2674794,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,7,-0.30999887,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,6,-0.3624845,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,5,-0.360834,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,4,-0.33510736,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,5,0.5817392,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,4,0.6232323,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,3,0.47845396,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,2,0.38030723,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,1,0.2781991,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,0,0.30658758,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,9,1.110534,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,8,0.5838209,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,7,0.70360786,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,6,0.7788783,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,5,0.79994434,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,4,0.6674488,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,3,0.46644723,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,2,0.89065725,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,1,0.928266,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,0,-0.7282857,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,1,-0.19526167,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,0,0.22414492,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,9,0.56856185,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,8,0.56618,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,7,0.5103765,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,6,0.5098097,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,5,0.5046668,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,4,0.51082987,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,3,0.5001743,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,2,0.41277042,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,1,0.43112424,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,0,0.5254443,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,9,0.6506514,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,8,0.62879,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,7,0.59839076,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,6,0.5906062,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,7,0.20671874,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,6,0.114832856,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,5,0.1141136,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,4,0.13734432,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,3,0.23248085,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,2,0.20144887,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,1,0.2537232,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,0,0.049640965,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,9,-0.362838,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,8,-0.40105435,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,7,-0.31644398,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,6,-0.32474002,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,5,-0.36357173,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,4,-0.26428953,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,3,-0.57532644,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,2,-0.48635852,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,3,-0.28602755,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,2,-0.34525633,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,1,-0.31162214,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,0,-0.65759104,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,9,0.2008827,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,8,0.19969799,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,7,0.19092925,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,6,0.2524916,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,5,0.3023699,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,4,0.28340447,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,3,0.30355045,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,2,0.30705273,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,1,0.36166844,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,0,0.3517323,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,9,0.3133455,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,8,0.2864668,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,7,-0.91664445,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,6,-0.9553936,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,4,-0.9282748,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,5,-0.9788607,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,9,-0.910206,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,8,-0.91056585,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,2,-0.18646638,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,3,-0.28251266,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,0,-0.20125335,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,1,-0.27866906,After epoch 2 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,4,-0.3271628,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,5,-0.35742176,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,2,-0.18927969,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,3,-0.28772458,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,9,-0.23187482,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,8,-0.26844895,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,5,0.8089494,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,4,0.69121605,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,3,0.45578635,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,2,0.8949464,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,1,0.93196887,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,0,-0.7282075,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,9,-0.35968867,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,8,-0.376028,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,7,-0.40289232,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,6,-0.3690784,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,5,-0.4039887,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,4,-0.37810716,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,3,-0.51938725,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,2,-0.5576879,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,1,-0.40857708,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,0,-0.64511126,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,1,0.42985037,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,0,0.5254485,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,9,0.6421453,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,8,0.62132883,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,7,0.5893636,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,6,0.5815571,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,5,0.57291055,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,4,0.61499923,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,3,0.4649973,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,2,0.37360826,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,1,0.2766364,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,0,0.30671868,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,6,-0.36193722,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,7,-0.31078953,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,1,-0.2789546,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,0,-0.20111547,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,6,0.87207276,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,7,0.81370145,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,8,0.6674146,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,9,1.1116768,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,7,-0.33194858,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,6,-0.33282354,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,5,-0.37501663,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,4,-0.28044635,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,9,0.57014984,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,8,0.5700787,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,7,0.5133247,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,6,0.5122071,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,3,-0.58739424,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,2,-0.4796336,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,1,-0.19398807,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,0,0.22442883,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,3,0.30357918,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,2,0.3061556,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,1,0.36271247,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,0,0.35172743,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,9,0.31796342,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,8,0.29571965,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,7,0.220305,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,6,0.13624695,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,5,0.13059054,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,4,0.14205274,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,3,0.2442478,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,2,0.20461866,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,5,0.5064366,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,4,0.5119308,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,3,0.5006592,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,2,0.4086198,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,8,-0.41876918,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,9,-0.3699333,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,0,0.049457017,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,1,0.25507873,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,9,-0.90092444,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,8,-0.90136,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,7,-0.90609914,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,6,-0.94847625,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,1,-0.31032884,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,0,-0.6573377,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,9,0.20510782,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,8,0.2061356,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,5,-0.97585005,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,4,-0.930763,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,3,-0.2495898,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,2,-0.34563813,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,4,0.27905238,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,5,0.2988827,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,6,0.24975874,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,7,0.1930779,After epoch 3 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,4,-0.3297727,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,5,-0.3573107,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,6,-0.36212754,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,7,-0.31185678,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,8,-0.2678078,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,9,-0.23237005,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,0,-0.6450778,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,1,-0.40839168,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,2,-0.5560305,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,3,-0.51707417,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,4,-0.37866595,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,5,-0.40417162,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,6,-0.36890376,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,7,-0.40404826,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,8,-0.37959665,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,9,-0.37106642,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,0,-0.7281815,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,1,0.9336249,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,2,0.89377534,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,3,0.45276618,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,4,0.6575191,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,5,0.7874249,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,6,0.8488566,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,7,0.79028136,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,8,0.67110515,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,9,1.0913323,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,0,0.3067347,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,1,0.2762984,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,2,0.3778397,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,3,0.46946394,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,4,0.6178359,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,5,0.5781103,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,1,-0.19662406,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,0,0.22449912,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,9,0.5717585,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,8,0.5694895,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,7,0.5127132,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,6,0.51176894,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,5,0.505769,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,4,0.5111536,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,3,0.5001304,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,2,0.4109466,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,1,0.4306828,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,0,0.52541566,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,9,0.64712757,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,8,0.6244884,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,7,0.5941469,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,6,0.586825,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,2,-0.47692478,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,3,-0.59974456,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,4,-0.2816319,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,5,-0.37120983,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,6,-0.32615703,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,7,-0.3216218,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,8,-0.41951874,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,9,-0.37605366,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,0,0.049356814,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,1,0.25572827,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,2,0.20216031,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,3,0.24466355,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,4,0.14152989,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,5,0.1264782,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,6,0.13349992,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,7,0.21189013,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,7,-0.90539074,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,6,-0.9472372,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,4,-0.9285419,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,5,-0.9745561,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,9,-0.90187204,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,8,-0.903363,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,7,0.1893739,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,6,0.24692196,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,5,0.29661715,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,4,0.27878836,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,3,0.3074495,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,2,0.30427533,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,1,0.36333188,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,0,0.35176745,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,9,0.31440976,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,8,0.2891936,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,3,-0.26243886,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,2,-0.34685192,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,1,-0.30890188,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,0,-0.6573053,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,9,0.19865528,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,8,0.2006585,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,2,-0.1898378,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,3,-0.2854233,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,0,-0.20111087,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,1,-0.2773182,After epoch 4 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,4,-0.9327195,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,5,-0.97869027,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,2,-0.34774286,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,3,-0.2728465,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,0,-0.6572976,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,1,-0.31027806,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,4,0.27835482,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,5,0.2979553,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,6,0.25138178,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,7,0.19368745,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,8,0.20702769,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,9,0.20353194,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,9,-0.23177372,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,8,-0.26771122,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,2,-0.18926407,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,3,-0.2859431,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,4,-0.32908118,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,5,-0.3566031,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,6,-0.36298642,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,7,-0.3110893,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,1,-0.28013134,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT1,0,-0.20108864,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,5,0.80744374,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,4,0.6726189,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,3,0.46741748,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,2,0.8984824,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,1,0.93092865,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,0,-0.72820383,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,9,-0.37161088,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,8,-0.38086072,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,7,-0.4085688,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,6,-0.37524432,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,5,-0.40880403,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,4,-0.38251293,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,6,-0.95214653,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,7,-0.9106426,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,8,-0.90892875,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT6,9,-0.9085048,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,0,-0.64508873,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,1,-0.40851912,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,2,-0.5564841,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT2,3,-0.51769716,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,1,0.43005052,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,0,0.52542585,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,9,0.6473424,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,8,0.62580794,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,3,0.46956456,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,2,0.37629896,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,1,0.27686876,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,0,0.3067206,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,7,0.5939802,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,6,0.5865995,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,5,0.5770893,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT1,4,0.6169021,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,7,-0.33419117,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,6,-0.33260244,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,5,-0.3721858,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,4,-0.27710125,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,3,-0.5945995,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,2,-0.47734037,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,1,-0.19242685,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,0,0.22452897,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,9,0.5702159,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,8,0.5702738,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,7,0.5153709,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,6,0.5135634,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,9,1.1117435,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,8,0.6165478,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,7,0.80197924,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,english,WEAT6,6,0.83030564,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,2,0.41078505,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,3,0.50272083,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,4,0.5134968,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT2,5,0.5075175,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,3,0.30872118,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,2,0.30387402,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,1,0.3635713,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT2,0,0.35179198,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,5,0.1286199,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,4,0.14132532,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,3,0.2390116,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,2,0.2018998,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,9,0.3163104,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,8,0.29253855,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,7,0.21525557,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,6,0.1337371,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,8,-0.423145,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,hindi,WEAT6,9,-0.38020995,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,0,0.049356513,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
+Debk/cerebras-gpt-111m-finetuned-alpaca-hindi,bengali,WEAT1,1,0.25435638,After epoch 5 bengali finetune on cerebras-gpt-111m-finetuned-alpaca-hindi
