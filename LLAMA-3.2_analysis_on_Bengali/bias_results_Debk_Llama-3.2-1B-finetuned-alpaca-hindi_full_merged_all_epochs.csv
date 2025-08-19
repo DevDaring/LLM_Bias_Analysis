@@ -1,0 +1,817 @@
+model_id,language,weat_category_id,layer_idx,weat_score,comments
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,0,0.3233207,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,1,0.22393149,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,2,0.506036,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,3,0.46266603,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,4,0.32645094,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,5,0.13988805,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,6,0.20453955,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,7,0.10131195,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,8,0.07067797,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,9,0.061958235,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,10,0.019682612,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,11,-0.07517644,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,12,-0.15360615,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,13,-0.118766114,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,14,-0.1299389,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,15,0.0022427677,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,0,0.30894503,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,1,0.036289357,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,2,0.058447596,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,3,0.15728238,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,4,0.1802959,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,5,0.19282402,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,6,0.18102902,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,7,0.09714539,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,8,0.16417865,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,9,0.13132538,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,10,0.12627587,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,11,0.08801516,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,12,0.100931585,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,13,0.00010454839,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,14,0.056493193,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,15,0.11082268,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,0,-0.18860328,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,1,0.1775526,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,2,-0.30832934,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,3,-0.3190456,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,4,-0.50854754,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,5,-0.5360126,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,6,-0.5786413,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,7,-0.63714844,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,8,-0.63440603,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,9,-0.7215188,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,10,-0.7474291,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,11,-0.7613942,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,12,-0.72296625,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,13,-0.68940353,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,14,-0.5991583,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,15,-0.5362638,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,0,-0.60276014,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,1,-0.5363324,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,2,-0.43888175,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,3,-0.39238086,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,4,-0.38569763,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,5,-0.30096433,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,6,-0.3285355,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,7,-0.30650657,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,8,-0.3161618,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,9,-0.23872261,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,10,-0.16138723,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,11,-0.1639579,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,12,-0.16252789,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,13,-0.22205158,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,14,-0.3123158,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,15,-0.42041233,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,0,-0.6941233,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,1,-0.7632226,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,2,-0.3321944,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,3,-0.44217318,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,4,-0.50394183,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,5,-0.4795702,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,6,-0.5783715,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,7,-0.5779375,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,8,-0.5700347,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,9,-0.5055975,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,10,-0.49871445,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,11,-0.5121241,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,12,-0.5246215,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,13,-0.54634774,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,14,-0.5771962,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,15,-0.5921574,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,0,0.72475904,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,1,1.1729431,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,2,-0.049654298,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,3,0.15670297,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,4,0.29036623,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,5,0.40807974,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,6,0.4466955,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,7,0.34563872,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,8,0.40877074,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,9,0.41551292,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,10,0.55061984,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,11,0.6500565,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,12,0.72749585,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,13,0.7747741,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,14,0.7020232,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,15,0.42974988,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,0,0.3099652,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,1,0.33645543,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,2,-0.117620856,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,3,0.0034167457,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,4,0.12057586,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,5,0.1277237,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,6,0.09670695,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,7,0.01744788,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,8,0.022274511,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,9,0.038884375,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,10,0.14188251,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,11,0.14665073,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,12,0.20423898,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,13,0.21220244,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,14,0.2132775,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,15,0.019775027,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,0,0.32798633,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,1,0.6000228,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,2,0.5882982,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,3,0.6220893,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,4,0.7106676,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,5,0.6636466,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,6,0.562611,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,7,0.5979458,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,8,0.6612316,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,9,0.7128444,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,10,0.59215444,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,11,0.6008558,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,12,0.54887515,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,13,0.48010892,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,14,0.46224737,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,15,0.5451249,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,0,0.28206632,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,1,0.10857377,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,2,0.18318129,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,3,0.33276278,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,4,0.18268016,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,5,-0.029231178,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,6,-0.23541084,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,7,-0.14613603,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,8,-0.2876489,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,9,-0.39802143,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,10,-0.12837845,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,11,-0.2567135,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,12,-0.45315778,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,13,-0.20060915,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,14,-0.2472517,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,15,-0.10651284,After epoch 1 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,0,0.32313842,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,1,0.22430344,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,2,0.51963055,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,3,0.49521503,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,4,0.35188636,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,5,0.16389032,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,6,0.21106726,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,7,0.10231766,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,8,0.070647195,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,9,0.057226878,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,10,0.0077804374,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,11,-0.08336176,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,12,-0.15846622,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,13,-0.123407446,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,14,-0.13607278,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,15,-0.005184801,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,0,0.30895373,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,1,0.04242256,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,2,0.06980547,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,3,0.13909028,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,4,0.17367817,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,5,0.16272835,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,6,0.16753419,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,7,0.07701893,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,8,0.15005678,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,9,0.12102985,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,10,0.12728319,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,11,0.09025981,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,12,0.10490987,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,13,0.003418744,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,14,0.054078072,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,15,0.104617774,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,0,-0.18848753,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,1,0.21315426,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,2,-0.31139928,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,3,-0.3286999,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,4,-0.51370543,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,5,-0.53628683,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,6,-0.5830248,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,7,-0.63380635,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,8,-0.6353382,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,9,-0.72870946,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,10,-0.7502006,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,11,-0.7670979,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,12,-0.7300198,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,13,-0.6925002,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,14,-0.6052021,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,15,-0.5455606,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,0,-0.6032904,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,1,-0.533215,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,2,-0.53592324,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,3,-0.47584918,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,4,-0.447523,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,5,-0.36586794,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,6,-0.39816874,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,7,-0.36659923,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,8,-0.355871,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,9,-0.29329762,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,10,-0.18395196,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,11,-0.17934912,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,12,-0.15381889,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,13,-0.21566038,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,14,-0.30569622,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,15,-0.40276393,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,0,-0.6943459,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,1,-0.7679351,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,2,-0.41384825,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,3,-0.51438004,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,4,-0.5445593,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,5,-0.52183396,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,6,-0.6331234,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,7,-0.62013835,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,8,-0.589877,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,9,-0.51536065,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,10,-0.5068318,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,11,-0.5242883,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,12,-0.53062814,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,13,-0.5510478,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,14,-0.5910268,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,15,-0.61619806,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,0,0.7244497,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,1,1.1755438,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,2,0.0061791213,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,3,0.21480669,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,4,0.31982616,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,5,0.42093807,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,6,0.459534,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,7,0.38803515,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,8,0.42041302,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,9,0.41385052,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,10,0.5174964,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,11,0.57837063,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,12,0.6391021,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,13,0.67935175,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,14,0.6164767,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,15,0.3392398,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,0,0.3108749,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,1,0.33648142,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,2,-0.19721271,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,3,-0.05234972,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,4,0.09970266,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,5,0.096548066,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,6,0.05123472,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,7,-0.020983744,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,8,-0.028567344,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,9,-0.042773094,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,10,0.11137545,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,11,0.119403206,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,12,0.19598268,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,13,0.20370099,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,14,0.21919923,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,15,-0.08978986,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,0,0.32749167,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,1,0.5964569,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,2,0.6510423,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,3,0.69668496,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,4,0.73763347,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,5,0.70960647,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,6,0.63022995,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,7,0.66228706,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,8,0.7352353,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,9,0.76548976,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,10,0.64340496,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,11,0.6376499,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,12,0.5984661,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,13,0.5127012,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,14,0.48600727,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,15,0.5911058,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,0,0.2810791,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,1,0.08502796,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,2,0.068604946,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,3,0.22952954,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,4,0.091518424,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,5,-0.11299307,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,6,-0.32838812,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,7,-0.27137154,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,8,-0.39982736,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,9,-0.45109278,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,10,-0.17899735,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,11,-0.28572276,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,12,-0.47700337,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,13,-0.20363952,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,14,-0.27993062,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,15,-0.2722198,After epoch 2 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,0,0.3230939,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,1,0.22633061,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,2,0.51068044,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,3,0.49125606,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,4,0.35298818,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,5,0.16429292,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,6,0.216331,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,7,0.08043543,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,8,0.06959954,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,9,0.05977309,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,10,0.0013610884,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,11,-0.09716712,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,12,-0.17496946,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,13,-0.13341922,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,14,-0.1487111,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,15,-0.013391635,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,0,0.30899483,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,1,0.044653386,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,2,0.063597195,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,3,0.14248946,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,4,0.17105581,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,5,0.17626859,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,6,0.17476484,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,7,0.08280331,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,8,0.15869625,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,9,0.12525494,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,10,0.118432745,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,11,0.081998594,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,12,0.09511335,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,13,-0.0031118155,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,14,0.04326436,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,15,0.09251336,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,0,-0.1883695,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,1,0.17732887,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,2,-0.31693003,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,3,-0.3316453,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,4,-0.50743365,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,5,-0.5257201,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,6,-0.5786273,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,7,-0.6364072,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,8,-0.6358636,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,9,-0.73070407,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,10,-0.7510815,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,11,-0.7739985,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,12,-0.74359757,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,13,-0.7007321,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,14,-0.60839933,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,15,-0.5512596,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,0,-0.6035943,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,1,-0.53451353,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,2,-0.48305514,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,3,-0.43938375,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,4,-0.4369045,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,5,-0.35717714,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,6,-0.39562714,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,7,-0.3750728,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,8,-0.36221737,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,9,-0.28560638,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,10,-0.16616309,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,11,-0.16933374,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,12,-0.09612277,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,13,-0.1592042,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,14,-0.26551116,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,15,-0.38827607,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,0,-0.69432586,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,1,-0.7691322,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,2,-0.27589425,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,3,-0.4018376,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,4,-0.458227,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,5,-0.4484759,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,6,-0.5709213,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,7,-0.57909155,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,8,-0.5519721,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,9,-0.4803461,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,10,-0.4677374,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,11,-0.4902099,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,12,-0.49174753,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,13,-0.53020483,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,14,-0.5714286,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,15,-0.6005784,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,0,0.72434527,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,1,1.1776878,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,2,0.14402543,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,3,0.32450122,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,4,0.39034262,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,5,0.48481247,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,6,0.5184571,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,7,0.4310009,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,8,0.46702847,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,9,0.4794106,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,10,0.56654435,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,11,0.6163965,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,12,0.6726019,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,13,0.68518925,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,14,0.61869794,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,15,0.3516934,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,0,0.3107074,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,1,0.34183532,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,2,-0.21851942,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,3,-0.061182395,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,4,0.08752955,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,5,0.0896687,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,6,0.061782047,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,7,-0.02334953,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,8,-0.048886605,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,9,-0.027624235,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,10,0.11990255,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,11,0.12680764,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,12,0.20834133,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,13,0.21203287,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,14,0.20013236,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,15,-0.07880905,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,0,0.32739547,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,1,0.59734005,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,2,0.59545034,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,3,0.6519542,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,4,0.69951826,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,5,0.6843765,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,6,0.5945169,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,7,0.6356034,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,8,0.71129,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,9,0.74734366,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,10,0.6233271,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,11,0.63624007,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,12,0.57096064,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,13,0.48989633,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,14,0.46748337,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,15,0.57684135,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,0,0.28058532,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,1,0.075575866,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,2,0.09072234,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,3,0.23801239,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,4,0.07185372,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,5,-0.121901594,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,6,-0.3486622,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,7,-0.29846597,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,8,-0.43494043,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,9,-0.5114569,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,10,-0.27567682,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,11,-0.39794332,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,12,-0.59900296,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,13,-0.37015188,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,14,-0.43276334,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,15,-0.42801157,After epoch 3 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,0,0.32312223,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,1,0.226658,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,2,0.5191508,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,3,0.5015066,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,4,0.37083122,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,5,0.17760922,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,6,0.21844831,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,7,0.08959726,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,8,0.07291771,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,9,0.06318103,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,10,0.005851923,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,11,-0.09337031,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,12,-0.1723445,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,13,-0.1306153,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,14,-0.1521004,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,15,-0.017626178,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,0,0.3089759,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,1,0.042523373,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,2,0.07127185,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,3,0.14199035,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,4,0.17824621,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,5,0.1802859,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,6,0.16871321,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,7,0.07695637,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,8,0.15614775,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,9,0.11578712,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,10,0.117015205,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,11,0.07835506,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,12,0.088789366,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,13,-0.009251869,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,14,0.034685493,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,15,0.07851581,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,0,-0.18837571,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,1,0.17417099,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,2,-0.3171873,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,3,-0.3392436,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,4,-0.50578374,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,5,-0.5233957,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,6,-0.574747,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,7,-0.6331178,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,8,-0.6315436,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,9,-0.7262554,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,10,-0.7415567,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,11,-0.7626701,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,12,-0.72766376,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,13,-0.6823999,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,14,-0.58996785,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,15,-0.52703565,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,0,-0.6037391,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,1,-0.53857446,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,2,-0.48271966,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,3,-0.44960925,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,4,-0.44708842,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,5,-0.36587662,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,6,-0.40604487,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,7,-0.38130423,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,8,-0.36231482,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,9,-0.26628017,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,10,-0.17499767,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,11,-0.17025621,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,12,-0.13534367,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,13,-0.19077447,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,14,-0.28528467,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,15,-0.40397823,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,0,-0.69423395,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,1,-0.76956713,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,2,-0.35671613,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,3,-0.4773076,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,4,-0.50769556,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,5,-0.4890781,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,6,-0.59955394,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,7,-0.5890627,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,8,-0.5638729,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,9,-0.5025875,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,10,-0.483171,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,11,-0.51226383,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,12,-0.5178864,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,13,-0.5427086,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,14,-0.5845099,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,15,-0.6099237,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,0,0.72410256,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,1,1.1804278,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,2,0.06584632,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,3,0.25229615,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,4,0.3477323,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,5,0.45266914,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,6,0.52711284,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,7,0.42970526,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,8,0.41715932,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,9,0.405069,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,10,0.49502715,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,11,0.5666972,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,12,0.6435562,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,13,0.6642241,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,14,0.6142061,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,15,0.35190722,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,0,0.3107202,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,1,0.33842576,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,2,-0.20552807,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,3,-0.06351024,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,4,0.11211073,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,5,0.09680239,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,6,0.055913597,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,7,-0.02177296,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,8,-0.04594757,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,9,-0.036513463,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,10,0.09688435,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,11,0.09434331,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,12,0.18818198,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,13,0.18968111,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,14,0.19236979,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,15,-0.13929826,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,0,0.32745394,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,1,0.5968596,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,2,0.62220573,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,3,0.66898227,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,4,0.740402,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,5,0.7084774,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,6,0.5827393,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,7,0.6157874,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,8,0.70391464,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,9,0.7350318,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,10,0.6279657,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,11,0.6276847,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,12,0.56843245,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,13,0.48221755,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,14,0.46798417,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,15,0.5768639,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,0,0.2805235,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,1,0.07032792,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,2,0.11306302,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,3,0.26455778,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,4,0.12216217,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,5,-0.07092632,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,6,-0.3073487,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,7,-0.2480814,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,8,-0.38615867,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,9,-0.459637,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,10,-0.17915818,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,11,-0.3093705,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,12,-0.5179927,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,13,-0.24145739,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,14,-0.3392357,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,15,-0.34875122,After epoch 4 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,0,0.32311612,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,1,0.22338165,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,2,0.53214157,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,3,0.49728775,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,4,0.35852924,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,5,0.17445645,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,6,0.21597694,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,7,0.07951937,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,8,0.06696621,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,9,0.052794598,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,10,-0.0073307883,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,11,-0.102809586,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,12,-0.18268669,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,13,-0.14011016,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,14,-0.15411623,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT1,15,-0.021720488,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,0,0.30896434,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,1,0.040107306,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,2,0.058922682,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,3,0.16016135,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,4,0.18376875,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,5,0.18467137,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,6,0.16906577,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,7,0.07533638,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,8,0.15259832,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,9,0.1157435,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,10,0.11304418,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,11,0.07295744,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,12,0.08488278,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,13,-0.012025406,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,14,0.03267715,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT2,15,0.077576056,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,0,-0.18838836,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,1,0.20531632,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,2,-0.31205118,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,3,-0.33567637,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,4,-0.506212,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,5,-0.52350634,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,6,-0.5729965,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,7,-0.630642,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,8,-0.62917763,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,9,-0.7276115,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,10,-0.74513334,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,11,-0.76789653,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,12,-0.73074335,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,13,-0.6869435,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,14,-0.5915421,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,bengali,WEAT6,15,-0.52947885,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,0,-0.6037631,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,1,-0.5371183,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,2,-0.4975217,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,3,-0.47375733,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,4,-0.46124315,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,5,-0.39049816,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,6,-0.4271941,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,7,-0.39395794,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,8,-0.3739673,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,9,-0.29804897,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,10,-0.19413118,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,11,-0.18911982,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,12,-0.14063074,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,13,-0.19563322,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,14,-0.28808886,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,15,-0.40376252,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,0,-0.69423324,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,1,-0.7699662,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,2,-0.32111832,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,3,-0.42386013,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,4,-0.4575104,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,5,-0.45325592,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,6,-0.57645935,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,7,-0.5721713,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,8,-0.54714876,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,9,-0.47159898,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,10,-0.46488583,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,11,-0.49819586,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,12,-0.50151676,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,13,-0.5341678,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,14,-0.5790109,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,15,-0.61018604,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,0,0.72409105,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,1,1.1754105,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,2,0.15195522,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,3,0.31753945,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,4,0.38792345,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,5,0.48345122,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,6,0.5347884,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,7,0.45929867,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,8,0.49793002,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,9,0.5438696,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,10,0.650381,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,11,0.73829633,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,12,0.8034698,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,13,0.82637584,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,14,0.7448697,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,15,0.4523172,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,0,0.31072128,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,1,0.33787215,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,2,-0.16859907,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,3,-0.0844954,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,4,0.06908745,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,5,0.06836669,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,6,0.03748302,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,7,-0.06198112,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,8,-0.08630792,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,9,-0.093599536,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,10,0.054198418,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,11,0.048645146,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,12,0.18390723,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,13,0.19191855,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,14,0.21030162,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,15,-0.10957113,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,0,0.32747877,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,1,0.6017852,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,2,0.62924844,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,3,0.6678254,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,4,0.7327444,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,5,0.7161148,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,6,0.59386545,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,7,0.6318807,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,8,0.7202832,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,9,0.7303275,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,10,0.6436876,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,11,0.63511914,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,12,0.6011712,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,13,0.50583065,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,14,0.48499063,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,15,0.5563982,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,0,0.2805386,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,1,0.07392845,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,2,0.10758766,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,3,0.26732555,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,4,0.13159886,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,5,-0.051529113,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,6,-0.26353878,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,7,-0.18915412,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,8,-0.35730565,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,9,-0.46622443,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,10,-0.19028117,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,11,-0.34006956,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,12,-0.55201215,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,13,-0.28357914,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,14,-0.36228657,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,15,-0.29433605,After epoch 5 bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,0,-0.60228866,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,1,-0.46286854,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,2,-0.001156551,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,3,-0.012624414,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,4,-0.10014649,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,5,-0.12762007,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,6,-0.1676863,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,7,-0.16314729,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,8,-0.2046166,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,9,-0.19419114,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,10,-0.17096369,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,11,-0.20377098,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,12,-0.19350466,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,13,-0.24081565,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,14,-0.34487998,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT1,15,-0.3385613,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,0,-0.6935574,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,1,-0.73040783,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,2,-0.5050028,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,3,-0.5143458,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,4,-0.5904759,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,5,-0.62557954,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,6,-0.69038045,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,7,-0.7283354,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,8,-0.715209,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,9,-0.70371306,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,10,-0.6811113,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,11,-0.69703573,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,12,-0.6930585,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,13,-0.6778711,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,14,-0.7134899,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT2,15,-0.6716283,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,0,0.7281401,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,1,1.0118825,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,2,0.8056517,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,3,0.8397221,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,4,0.88595337,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,5,0.8768396,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,6,0.81968963,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,7,0.7407591,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,8,0.7020826,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,9,0.73909545,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,10,0.7629661,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,11,0.82651967,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,12,0.84819037,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,13,0.85071886,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,14,0.6332021,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,english,WEAT6,15,0.08150315,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,0,0.30818042,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,1,0.23849903,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,2,0.036726102,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,3,0.08744551,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,4,0.16857813,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,5,0.15519933,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,6,0.21018726,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,7,0.10075257,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,8,0.09732728,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,9,0.1597032,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,10,0.09904887,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,11,0.08443038,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,12,0.111677624,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,13,0.089150175,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,14,0.07823319,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT1,15,0.04148848,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,0,0.32784957,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,1,0.7067726,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,2,0.44513673,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,3,0.37881482,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,4,0.50824153,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,5,0.5216888,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,6,0.46974498,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,7,0.4187628,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,8,0.5045621,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,9,0.5521371,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,10,0.52705914,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,11,0.51748973,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,12,0.51552784,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,13,0.5102515,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,14,0.46961483,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT2,15,0.5518623,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,0,0.2874079,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,1,-0.004887969,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,2,-0.27337012,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,3,0.11598205,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,4,-0.047682963,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,5,-0.22376895,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,6,-0.3331076,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,7,-0.2826953,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,8,-0.5131609,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,9,-0.43693674,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,10,-0.17656672,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,11,-0.29292455,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,12,-0.43726054,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,13,-0.18317522,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,14,-0.57186,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
+Debk/Llama-3.2-1B-finetuned-alpaca-hindi_full,hindi,WEAT6,15,-0.47543967,Before bengali finetune on Llama-3.2-1B-finetuned-alpaca-hindi_full
