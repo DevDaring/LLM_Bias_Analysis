@@ -1,0 +1,23 @@
+{
+  "methodology": {
+    "approach": "Template-based CEAT with random-effects meta-analysis",
+    "statistical_framework": "Random-effects meta-analysis with parametric z-test",
+    "templates_per_word": 16,
+    "significance_testing": "Parametric z-test based on effect size and standard error"
+  },
+  "statistical_summary": {
+    "mean_combined_effect_size": 0.6986493713867674,
+    "std_combined_effect_size": 0.6187459397365142,
+    "significant_results_05": 1027,
+    "significant_results_01": 983,
+    "total_tests": 1224,
+    "mean_i_squared": 0.07832333776685926
+  },
+  "context_analysis": {
+    "mean_between_context_variance": 0.010653420508671251,
+    "mean_consistency_score": 0.7801414815818563
+  },
+  "confidence_intervals": {
+    "mean_ci_width": 0.3347257280094822
+  }
+}
